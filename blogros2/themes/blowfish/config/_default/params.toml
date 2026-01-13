@@ -180,3 +180,6 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [advertisement]
   # adsense = ""
+
+[assets]
+  customCSS = ["css/custom.css"]
